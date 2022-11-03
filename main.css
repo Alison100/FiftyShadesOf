@@ -2,7 +2,7 @@ body {
     background-color: #000;
 }
 
-.jumbotron {
+.pooptitle {
     color: saddlebrown;
     font-family: 'Scary Halloween Font';
     font-size: 100px;
@@ -24,11 +24,16 @@ p {
     width: 50%;
 }
 
+img {
+    float: left;
+}
+
 .risk {
     font-family: 'Scary Halloween Font';
     color: red;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
 }
 
 .gallery {
@@ -60,6 +65,13 @@ p {
 
 .button:hover {
     background-color: red;
+}
+
+.seconddoor {
+    font-family: 'Scary Halloween Font';
+    font-size: 50px;
+    color: #fff;
+    
 }
 
 
